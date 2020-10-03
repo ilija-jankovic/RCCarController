@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RCCarController</string>
+    <string name="buttonConnect">Connect to Car</string>
+    <string name="buttonLeft">&lt;</string>
+    <string name="buttonRight">&gt;</string>
+    <string name="buttonForward">^</string>
+    <string name="buttonBack">R</string>
+    <string name="buttonAI">Toggle AI</string>
+    <string name="buttonWifi">Choose WIFI Network</string>
+</resources>
